@@ -1,0 +1,10 @@
+{
+  "name": "react-type-password",
+  "version": "0.1.3",
+  "description": "React password input with type='text' support.",
+  "private": false,
+  "peerDependencies": {
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  }
+}
